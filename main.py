@@ -33,3 +33,4 @@ for it in range(100):
 
 # 显示最终结果
 print(f"\nFinal results: x = {x:.4f}, z = {z:.4f}, u = {u:.4f}")
+# Edited from Github Website
